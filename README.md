@@ -8,7 +8,5 @@ Atualmente, estou me aprofundando no mundo de Java, explorando seus conceitos e 
 Estou sempre aberto a aprender coisas novas e trocar conhecimento. Bora conversar? 😃
 ## 🛠 Habilidades
 <div> <img align="center" alt="Rafael-Go" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="center" alt="Rafael-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
-<img align="center" alt="Rafael-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-<img align="center" alt="Rafael-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
-<img align="center" alt="Rafael-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> </div>
+<img align="center" alt="Rafael-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /> 
+
